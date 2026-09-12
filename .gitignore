@@ -13,13 +13,6 @@ venv/
 env/
 .venv/
 
-# BMAD
-_bmad/
-
-# Claude
-.agents/
-.claude/
-
 # IDE
 .idea/
 .vscode/
