@@ -1,0 +1,54 @@
+{
+  "alert_id": "ALERT001",
+  "sar_id": "SAR-ALERT001-1789180676",
+  "created_by": "analyst1",
+  "created_at": "2026-09-12T08:07:50.859167",
+  "last_updated": "2026-09-12T08:07:56.945511",
+  "overall_status": "COMPLETED",
+  "steps": {
+    "ALERT_INGESTION": {
+      "step": "ALERT_INGESTION",
+      "timestamp": "2026-09-12T08:07:50.869405",
+      "status": "COMPLETED",
+      "details": {
+        "alert_id": "ALERT001",
+        "initiated_by": "analyst1"
+      }
+    },
+    "RAG_RETRIEVAL": {
+      "step": "RAG_RETRIEVAL",
+      "timestamp": "2026-09-12T08:07:50.877410",
+      "status": "COMPLETED",
+      "details": {
+        "customer": null,
+        "txn_count": null,
+        "knowledge_chunks": 3
+      }
+    },
+    "LLM_GENERATION": {
+      "step": "LLM_GENERATION",
+      "timestamp": "2026-09-12T08:07:56.906251",
+      "status": "COMPLETED",
+      "details": {
+        "tokens": 162,
+        "time_seconds": 6.02
+      }
+    },
+    "VALIDATION": {
+      "step": "VALIDATION",
+      "timestamp": "2026-09-12T08:07:56.911768",
+      "status": "COMPLETED",
+      "details": {
+        "validation_status": "VALID",
+        "errors": []
+      }
+    }
+  },
+  "completed_steps": [
+    "ALERT_INGESTION",
+    "RAG_RETRIEVAL",
+    "LLM_GENERATION",
+    "VALIDATION"
+  ],
+  "total_steps": 4
+}

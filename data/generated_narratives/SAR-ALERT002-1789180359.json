@@ -1,0 +1,16 @@
+{
+  "sarid": "SAR-ALERT002-1789180359",
+  "alertid": "ALERT002",
+  "narrative": {
+    "fulltext": ""
+  },
+  "metadata": {
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "generation_method": "HuggingFace Inference API",
+    "alert_id": "ALERT002",
+    "pattern_type": "Unknown"
+  },
+  "validationstatus": "NEEDS_REVIEW",
+  "analystid": "analyst1",
+  "generationtimeseconds": 0.055378
+}

@@ -1,0 +1,19 @@
+{
+  "sarid": "SAR-ALERT001-1789180676",
+  "alertid": "ALERT001",
+  "narrative": {
+    "fulltext": "[SUBJECT IDENTIFICATION]\nThe subject is an unidentified individual with an unknown occupation and annual income of Rs 0. The risk rating and PEP status for this subject are unknown. The account type and city for this subject are also unavailable.\n\n[ACTIVITY SUMMARY]\nThere have been no transactions recorded for this subject.\n\n[SUSPICION RATIONALE]\nBased on the available information, there is no suspicious activity identified for this subject.\n\n[REGULATORY REFERENCES]\n- PMLA Section 12: Reporting of suspicious transactions to FIU-IND within 7 working days.\n- RBI Master Direction on KYC: Enhanced Due Diligence for high-risk customers and PEPs.\n- FIU-IND Guidelines: Reporting and investigation of suspicious transactions.\n\n[CONCLUSION]\nBased on the available information, there is no suspicious activity identified for this subject. However, in accordance with regulatory requirements, any future transactions involving this subject should be closely monitored for any signs of suspicious activity. Additionally, any new information that becomes available regarding this subject should be promptly reported to the appropriate regulatory authorities."
+  },
+  "metadata": {
+    "model": "mistralai/Mistral-7B-Instruct-v0.2",
+    "generation_method": "HuggingFace Inference API",
+    "alert_id": "ALERT001",
+    "pattern_type": "Unknown"
+  },
+  "validationstatus": "VALID",
+  "analystid": "analyst1",
+  "generationtimeseconds": 6.060202,
+  "approvalstatus": "APPROVED",
+  "approved_by": "analyst1",
+  "approved_at": "2026-09-12T08:08:29.753859"
+}

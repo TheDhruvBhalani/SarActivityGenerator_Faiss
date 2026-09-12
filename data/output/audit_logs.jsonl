@@ -1,0 +1,17 @@
+{"timestamp": "2026-09-12T07:50:54.884858", "event_type": "SAR_GENERATION_STARTED", "user": "analyst1", "role": "ANALYST", "data": {"alert_id": "ALERT002"}}
+{"timestamp": "2026-09-12T07:50:54.979348", "event_type": "SAR_GENERATION_COMPLETED", "user": "analyst1", "role": "ANALYST", "data": {"sar_id": "SAR-ALERT002-1789179654"}}
+{"timestamp": "2026-09-12T07:58:27.123584", "event_type": "SAR_GENERATION_STARTED", "user": "analyst1", "role": "ANALYST", "data": {"alert_id": "ALERT001"}}
+{"timestamp": "2026-09-12T07:58:28.194039", "event_type": "SAR_GENERATION_COMPLETED", "user": "analyst1", "role": "ANALYST", "data": {"sar_id": "SAR-ALERT001-1789180108"}}
+{"timestamp": "2026-09-12T07:59:24.464401", "event_type": "SAR_GENERATION_STARTED", "user": "analyst1", "role": "ANALYST", "data": {"alert_id": "ALERT001"}}
+{"timestamp": "2026-09-12T07:59:24.533589", "event_type": "SAR_GENERATION_COMPLETED", "user": "analyst1", "role": "ANALYST", "data": {"sar_id": "SAR-ALERT001-1789180164"}}
+{"timestamp": "2026-09-12T08:01:10.148956", "event_type": "SAR_GENERATION_STARTED", "user": "analyst1", "role": "ANALYST", "data": {"alert_id": "ALERT001"}}
+{"timestamp": "2026-09-12T08:01:10.513107", "event_type": "SAR_GENERATION_COMPLETED", "user": "analyst1", "role": "ANALYST", "data": {"sar_id": "SAR-ALERT001-1789180270"}}
+{"timestamp": "2026-09-12T08:01:57.476242", "event_type": "SAR_GENERATION_STARTED", "user": "analyst1", "role": "ANALYST", "data": {"alert_id": "ALERT001"}}
+{"timestamp": "2026-09-12T08:01:57.550499", "event_type": "SAR_GENERATION_COMPLETED", "user": "analyst1", "role": "ANALYST", "data": {"sar_id": "SAR-ALERT001-1789180317"}}
+{"timestamp": "2026-09-12T08:02:39.692669", "event_type": "SAR_GENERATION_STARTED", "user": "analyst1", "role": "ANALYST", "data": {"alert_id": "ALERT002"}}
+{"timestamp": "2026-09-12T08:02:39.753115", "event_type": "SAR_GENERATION_COMPLETED", "user": "analyst1", "role": "ANALYST", "data": {"sar_id": "SAR-ALERT002-1789180359"}}
+{"timestamp": "2026-09-12T08:06:39.980544", "event_type": "SAR_GENERATION_STARTED", "user": "analyst1", "role": "ANALYST", "data": {"alert_id": "ALERT001"}}
+{"timestamp": "2026-09-12T08:06:43.816481", "event_type": "SAR_GENERATION_COMPLETED", "user": "analyst1", "role": "ANALYST", "data": {"sar_id": "SAR-ALERT001-1789180603"}}
+{"timestamp": "2026-09-12T08:07:50.864185", "event_type": "SAR_GENERATION_STARTED", "user": "analyst1", "role": "ANALYST", "data": {"alert_id": "ALERT001"}}
+{"timestamp": "2026-09-12T08:07:56.951169", "event_type": "SAR_GENERATION_COMPLETED", "user": "analyst1", "role": "ANALYST", "data": {"sar_id": "SAR-ALERT001-1789180676"}}
+{"timestamp": "2026-09-12T08:08:29.767686", "event_type": "SAR_APPROVED", "user": "analyst1", "role": "ANALYST", "data": {"sarid": "SAR-ALERT001-1789180676", "status": "APPROVED", "approved_by": "analyst1"}}
